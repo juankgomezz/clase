@@ -8,8 +8,7 @@ Para instalar y configurar Math Wizard, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/math-wizard.git
-   cd math-wizard
+   git clone https://github.com/juankgomezz/clase.git
 ##Para iniciar el juego, ejecuta el siguiente comando en tu terminal:
 python game.py
 
