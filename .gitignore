@@ -1,1 +1,2 @@
-eliminar.txt
+# Ignorar todos los archivos .log
+node_modules/
