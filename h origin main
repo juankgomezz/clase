@@ -1,0 +1,134 @@
+[33mcommit 92fe608b40f07cd08d67c890413458907eda5062[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 235c450 6f6f450
+Author: juankgomezz <gomezzuluagaju10@gmail.com>
+Date:   Wed May 8 11:14:46 2024 -0500
+
+    Merge branch 'main' of https://github.com/juankgomezz/clase
+
+[33mcommit 235c4506c7f1b5bc6b108d8ffc9eb0f2731cc25b[m
+Author: juankgomezz <gomezzuluagaju10@gmail.com>
+Date:   Wed May 8 11:12:11 2024 -0500
+
+    Actualizado .gitignore para excluir eliminar.txt
+
+[33mcommit 6f6f4508fe32f4d3a0d787a33f061426030f9645[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: juankgomezz <168669509+juankgomezz@users.noreply.github.com>
+Date:   Wed May 8 11:04:05 2024 -0500
+
+    eliminar
+
+[33mcommit 4431cba13f8c41bad5a9dd23ffffbd1b603985ea[m
+Author: juankgomezz <168669509+juankgomezz@users.noreply.github.com>
+Date:   Wed May 1 15:52:21 2024 -0500
+
+    Delete README.md
+
+[33mcommit 7bd47626aa4276e2102d2b2a8579f1cbbb77d7c5[m
+Author: juankgomezz <168669509+juankgomezz@users.noreply.github.com>
+Date:   Wed May 1 15:51:33 2024 -0500
+
+    README.md
+
+[33mcommit 63c764c3b9d206b355c55da50cd85dbebf61119f[m
+Author: juankgomezz <168669509+juankgomezz@users.noreply.github.com>
+Date:   Wed May 1 15:49:45 2024 -0500
+
+    game.py
+
+[33mcommit b7c2ac9b88b314cf0f81b33cd0e999361f59cd04[m
+Author: juankgomezz <gomezzuluagaju10@gmail.com.com>
+Date:   Wed May 1 15:34:51 2024 -0500
+
+    Actualizar README con información del proyecto
+
+[33mcommit 69a5216e05a6f2f56cfe67ec6ce91e9a009b59b8[m
+Merge: ac2ad6a e087f89
+Author: juankgomezz <168669509+juankgomezz@users.noreply.github.com>
+Date:   Wed May 1 15:26:47 2024 -0500
+
+    Merge pull request #1 from juankgomezz/feature-juego
+    
+     juego de operaciones aritméticas
+
+[33mcommit e087f89ca74148d19780ff8629c876b9f45e4861[m
+Author: juankgomezz <gomezzuluagaju10@gmail.com.com>
+Date:   Wed May 1 15:21:12 2024 -0500
+
+    Añade el juego de operaciones aritméticas
+
+[33mcommit ac2ad6a6ca14059f2568fd9957439e794dd6cf61[m
+Merge: 79041ae d2bb486
+Author: juankgomezz <gomezzuluagaju10@gmail.com.com>
+Date:   Wed May 1 14:55:53 2024 -0500
+
+    Merge branch 'feature-potencia'
+
+[33mcommit 79041aee88da8370a057fba8916c87a0f8e1ff7a[m
+Merge: 3ceaf78 aa2c0fb
+Author: juankgomezz <gomezzuluagaju10@gmail.com.com>
+Date:   Wed May 1 14:53:20 2024 -0500
+
+    Merge branch 'feature-division'
+
+[33mcommit 3ceaf78eeadf9315cd72680fabfd5a339393eb9f[m
+Merge: 663e0f5 33348c9
+Author: juankgomezz <gomezzuluagaju10@gmail.com.com>
+Date:   Wed May 1 14:53:06 2024 -0500
+
+    Merge branch 'feature-resta'
+
+[33mcommit 663e0f5677d9bd8236a384b186b365380a322dbc[m
+Merge: cd427d9 f6b99c9
+Author: juankgomezz <gomezzuluagaju10@gmail.com.com>
+Date:   Wed May 1 14:52:34 2024 -0500
+
+    Merge branch 'feature-multiplicacion'
+
+[33mcommit cd427d9cb798cacafc5c9b86d5ec2eddff928e15[m
+Merge: bccada3 e2ab988
+Author: juankgomezz <gomezzuluagaju10@gmail.com.com>
+Date:   Wed May 1 14:50:34 2024 -0500
+
+    Merge branch 'feature-modulo'
+
+[33mcommit bccada3f7f96d20da3da39c75502b04cf6b7cfd0[m[33m ([m[1;31morigin/feature-suma[m[33m)[m
+Author: juankgomezz <gomezzuluagaju10@gmail.com.com>
+Date:   Wed May 1 14:31:37 2024 -0500
+
+    Añade la función de suma
+
+[33mcommit e2ab988b06a2331e259966656d5b77d040e69665[m[33m ([m[1;31morigin/feature-modulo[m[33m)[m
+Author: juankgomezz <gomezzuluagaju10@gmail.com.com>
+Date:   Wed May 1 14:21:49 2024 -0500
+
+    Añade función de módulo con manejo de división por cero
+
+[33mcommit d2bb4865977e8dee404f03c24488b803a07a8db1[m[33m ([m[1;31morigin/feature-potencia[m[33m)[m
+Author: juankgomezz <gomezzuluagaju10@gmail.com.com>
+Date:   Wed May 1 14:18:14 2024 -0500
+
+    Añade función de cálculo de potencia
+
+[33mcommit aa2c0fb2290824e7c5e498c9340bea447d84eff1[m[33m ([m[1;31morigin/feature-division[m[33m)[m
+Author: juankgomezz <gomezzuluagaju10@gmail.com.com>
+Date:   Wed May 1 14:14:34 2024 -0500
+
+    Añade función de división con manejo de división por cero
+
+[33mcommit f6b99c9e263e0f29f75c99cdf7bf87c6390bf79f[m[33m ([m[1;31morigin/feature-multiplicacion[m[33m)[m
+Author: juankgomezz <gomezzuluagaju10@gmail.com.com>
+Date:   Wed May 1 13:56:33 2024 -0500
+
+    Añade función de multiplicación
+
+[33mcommit 33348c99ca564b900362656d9143ccef1c93db06[m[33m ([m[1;31morigin/feature-resta[m[33m)[m
+Author: juankgomezz <gomezzuluagaju10@gmail.com.com>
+Date:   Wed May 1 13:49:49 2024 -0500
+
+    Añade función de resta
+
+[33mcommit a7cefd1dc167c0b78a8b154baaf7399ad155dfdb[m
+Author: juankgomezz <168669509+juankgomezz@users.noreply.github.com>
+Date:   Wed May 1 12:35:43 2024 -0500
+
+    Initial commit
